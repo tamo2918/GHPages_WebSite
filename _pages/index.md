@@ -15,7 +15,6 @@ permalink: /
 ### 今年の目標
 > 収入源を見つける!!
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
