@@ -3,9 +3,19 @@ title: "My Web"
 author: default
 permalink: /
 ---
+# ⭐️About Me
 
+## 名前
+**Tatsuki Morita**
 
+## 趣味
+- バスケ
+- 映画、アニメ鑑賞
 
+### 今年の目標
+> 収入源を見つける!!
+
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
