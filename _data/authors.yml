@@ -3,6 +3,6 @@ default:
   avatar: "/assets/images/tamoicon.png"
   bio: "KITHUBで行われた勉強会の参加者です。"
   links:
-    - label: "XXXXXXXXXXX"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
+    - label: "github"
+      icon: "fab fa-github"
+      url: "https://github.com/tamo2918"
