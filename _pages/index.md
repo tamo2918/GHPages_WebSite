@@ -15,8 +15,5 @@ permalink: /
 ### 今年の目標
 > 収入源を見つける!!
 
-## github_ull
-[github]([https://www.google.co.jp/](https://github.com/tamo2918))
-
 ---
 
